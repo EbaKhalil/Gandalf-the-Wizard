@@ -1,0 +1,4 @@
+﻿  Dynamic programming1.cpp
+C:\Users\GAIF\source\repos\Dynamic programming1\Dynamic programming1\Dynamic programming1.cpp(13,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GAIF\source\repos\Dynamic programming1\Dynamic programming1\Dynamic programming1.cpp(30,6): error C2086: 'int numOfTreasures': redefinition
+C:\Users\GAIF\source\repos\Dynamic programming1\Dynamic programming1\Dynamic programming1.cpp(29): message : see declaration of 'numOfTreasures'
